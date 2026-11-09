@@ -1,0 +1,4 @@
+step,rows_left,removed
+station-days after joining,901753,
+incomplete day (< 360 polls or no peak data),892347,9406.0
+inactive station (< 365 departures),851613,40734.0
